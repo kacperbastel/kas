@@ -5,6 +5,7 @@ def check_number(n):
         return "отрицательное"
     else:
         return "ноль"
-
+    else:
+        return "ноль"
 num = int(input("Введите : "))
 print(check_number(num))
