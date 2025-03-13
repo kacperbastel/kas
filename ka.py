@@ -1,4 +1,4 @@
-def check_number(n):
+def check_number(l):
     if n > 0:
         return "положительное"
     elif n < 0:
