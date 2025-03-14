@@ -9,3 +9,4 @@ def check_number(l):
         return "ноль"
 num = int(input("Введите : "))
 print(check_number(num))
+print(check_number(num2))
