@@ -6,7 +6,7 @@ def check_number(l):
     else:
         return "ноль"
     else:
-        return "ноль"
+        return "0"
 num = int(input("Введите : "))
 print(check_number(num))
 print(check_number(num2))
