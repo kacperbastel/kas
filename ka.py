@@ -8,5 +8,5 @@ def check_number(l):
     else:
         return "0"
 num = int(input("Введите : "))
-print(check_number(num))
+print(check_number(num0))
 print(check_number(num2))
