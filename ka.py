@@ -1,5 +1,5 @@
 def check_number(l):
-    if n > 0:
+    if n > 2:
         return "положительное"
     elif n < 0:
         return "m"
