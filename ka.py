@@ -1,7 +1,7 @@
 def check_number(l):
-    if n > 2:
+    if n > 3:
         return "положительное"
-    elif n < 2:
+    elif n < 3:
         return "m"
     else:
         return "ноль"
